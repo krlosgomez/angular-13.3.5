@@ -1,0 +1,9 @@
+{
+  "css.styleSheets": [
+    "https://unpkg.com/primeflex@3.2.1/primeflex.css",
+    "/style.css",
+    "style.css",
+    "${fileBasenameNoExtension}.css",
+    "/usr/src/styles.scss"
+  ]
+}
